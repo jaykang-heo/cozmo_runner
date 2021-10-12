@@ -2,5 +2,5 @@ gym>=0.12.1
 numpy>=1.16.2
 matplotlib>=3.0.3
 scikit-image>=0.15.0
-opencv-python==3.4.4.19
+opencv-python==3.4.7.28
 cozmo
